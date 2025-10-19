@@ -1,0 +1,34 @@
+name: AuthShield
+version: 1.0
+main: com.authshield.plugin.AuthShieldPlugin
+api-version: 1.21
+commands:
+  register:
+    description: Register a password.
+    usage: /register <password> <confirm>
+    permission: authshield.register
+  login:
+    description: Login with password.
+    usage: /login <password>
+    permission: authshield.login
+  logout:
+    description: Logout manually.
+    usage: /logout
+    permission: authshield.logout
+  authshield:
+    description: Admin commands.
+    usage: /authshield reset <player>
+    permission: authshield.admin
+permissions:
+  authshield.register:
+    description: Allows registering.
+    default: true
+  authshield.login:
+    description: Allows logging in.
+    default: true
+  authshield.logout:
+    description: Allows logging out.
+    default: true
+  authshield.admin:
+    description: Allows admin commands.
+    default: op
