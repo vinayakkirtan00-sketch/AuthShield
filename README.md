@@ -14,7 +14,7 @@
       <li>Secure password-based login system</li>
       <li>Automatic registration prompt for new players</li>
       <li>Configurable login timeout and kick messages</li>
-      <li>Supports both Bedrock (PMMP) and Java (Spigot) environments</li>
+      <li>Supports both Bedrock and Java (Spigot) environments</li>
       <li>Multi-language support</li>
       <li>Lightweight and lag-free — perfect for all server sizes</li>
       <li>Admin commands for player management</li>
@@ -101,7 +101,7 @@
     <h2>📁 Installation</h2>
     <ol>
       <li>Download the latest version from the link above.</li>
-      <li>Place the <code>.jar</code> or <code>.phar</code> file into your server’s <code>plugins/</code> folder.</li>
+      <li>Place the <code>.jar</code> file into your server’s <code>plugins/</code> folder.</li>
       <li>Restart the server.</li>
       <li>Configure settings in <code>config.yml</code> to your preference.</li>
       <li>Enjoy a secure and smooth authentication system!</li>
