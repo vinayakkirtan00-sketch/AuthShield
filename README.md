@@ -8,6 +8,7 @@
 ‎---
 ‎
 ‎🚀 Features
+
 ‎
 ‎✅ Secure password-based login system
 ‎✅ Automatic registration prompt for new players
@@ -20,10 +21,12 @@
 ‎
 ‎---
 ‎
+
 ‎⚙️ Commands & Permissions
 ‎
 ‎Command	Description	Permission
 ‎
+
 ‎/register <password> <confirm>	Register a new account	—
 ‎/login <password>	Log into your account	—
 ‎/changepass <old> <new>	Change your password	authshield.changepass
@@ -71,8 +74,10 @@
 ‎
 ‎
 ‎
+
 ‎
 ‎---
+
 ‎
 ‎🧑‍💻 Developer
 ‎
