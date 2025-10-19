@@ -1,0 +1,2 @@
+# Session timeout in seconds (0 to disable sessions, forcing login on every join)
+session-timeout: 300
